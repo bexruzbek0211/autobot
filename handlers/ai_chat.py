@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 router = Router()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
 
 SYSTEM_PROMPT = """Sen avtomobil texnik xizmati bo'yicha mutaxassissan.
 O'zbekistondagi avtomobil egalari (Nexia, Matiz, Cobalt, Lacetti) uchun maslahat berasan.
