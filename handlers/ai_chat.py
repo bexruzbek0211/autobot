@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 router = Router()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
 
 SYSTEM_PROMPT = """Sen avtomobil texnik xizmati bo'yicha mutaxassissan. O'zbekistondagi avtomobil egalari (Nexia, Matiz, Cobalt, Lacetti) uchun maslahat berasan. Qisqa, aniq va amaliy javob ber. O'zbek tilida javob ber."""
 
@@ -31,7 +31,7 @@ async def gemini_javob(savol: str, mashina_info: str = "") -> str:
             async with aiohttp.ClientSession() as session:
                 async with session.post(GEMINI_URL, json=payload) as resp:
                     if resp.status == 429:
-                        await asyncio.sleep(5 * (urinish + 1))
+                        await asyncio.sleep(15 * (urinish + 1))
                         continue
                     data = await resp.json()
                     javob = data["candidates"][0]["content"]["parts"][0]["text"]
