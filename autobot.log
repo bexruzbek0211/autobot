@@ -1,0 +1,478 @@
+2026-06-16 15:10:19,818 [INFO] database: ✅ DB tayyor
+2026-06-16 15:10:19,818 [INFO] __main__: ✅ Ma'lumotlar bazasi tayyor
+2026-06-16 15:10:19,842 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-06-16 15:10:19,842 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-06-16 15:10:19,842 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-06-16 15:10:19,842 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-06-16 15:10:19,843 [INFO] apscheduler.scheduler: Added job "kunlik_eslatmalar_yuborish" to job store "default"
+2026-06-16 15:10:19,843 [INFO] apscheduler.scheduler: Added job "yaqinlashgan_eslatmalar" to job store "default"
+2026-06-16 15:10:19,843 [INFO] apscheduler.scheduler: Added job "mavsumiy_eslatma" to job store "default"
+2026-06-16 15:10:19,843 [INFO] apscheduler.scheduler: Added job "mavsumiy_eslatma" to job store "default"
+2026-06-16 15:10:19,843 [INFO] apscheduler.scheduler: Scheduler started
+2026-06-16 15:10:19,843 [INFO] scheduler: ✅ Scheduler ishga tushdi
+2026-06-16 15:10:19,843 [INFO] __main__: ✅ Scheduler ishga tushdi
+2026-06-16 15:10:19,843 [INFO] __main__: 🚗 AvtoServis Bot ishga tushdi!
+2026-06-16 15:10:19,843 [INFO] aiogram.dispatcher: Start polling
+2026-06-16 15:10:23,626 [INFO] aiogram.dispatcher: Run polling for bot @avtoservis_uz_bot id=8991480521 - 'AvtoServis Bot'
+2026-06-16 15:11:21,494 [INFO] aiogram.event: Update id=988633680 is handled. Duration 545 ms by bot id=8991480521
+2026-06-16 15:11:44,501 [INFO] aiogram.event: Update id=988633681 is handled. Duration 473 ms by bot id=8991480521
+2026-06-16 15:11:51,060 [INFO] aiogram.event: Update id=988633682 is handled. Duration 200 ms by bot id=8991480521
+2026-06-16 15:11:59,305 [INFO] aiogram.event: Update id=988633683 is handled. Duration 221 ms by bot id=8991480521
+2026-06-16 15:12:01,958 [INFO] aiogram.event: Update id=988633684 is handled. Duration 221 ms by bot id=8991480521
+2026-06-16 15:12:05,165 [INFO] aiogram.event: Update id=988633685 is handled. Duration 219 ms by bot id=8991480521
+2026-06-16 15:12:13,090 [INFO] aiogram.event: Update id=988633686 is handled. Duration 185 ms by bot id=8991480521
+2026-06-16 15:12:16,518 [INFO] aiogram.event: Update id=988633687 is handled. Duration 176 ms by bot id=8991480521
+2026-06-16 15:12:19,604 [INFO] aiogram.event: Update id=988633688 is handled. Duration 248 ms by bot id=8991480521
+2026-06-16 15:12:24,480 [INFO] aiogram.event: Update id=988633689 is handled. Duration 363 ms by bot id=8991480521
+2026-06-16 15:13:03,622 [INFO] aiogram.event: Update id=988633690 is handled. Duration 554 ms by bot id=8991480521
+2026-06-16 15:13:11,391 [INFO] aiogram.event: Update id=988633691 is handled. Duration 164 ms by bot id=8991480521
+2026-06-16 15:13:19,918 [INFO] aiogram.event: Update id=988633692 is handled. Duration 168 ms by bot id=8991480521
+2026-06-16 15:13:25,563 [INFO] aiogram.event: Update id=988633693 is handled. Duration 187 ms by bot id=8991480521
+2026-06-16 15:13:27,812 [INFO] aiogram.event: Update id=988633694 is handled. Duration 174 ms by bot id=8991480521
+2026-06-16 15:13:29,767 [INFO] aiogram.event: Update id=988633695 is handled. Duration 234 ms by bot id=8991480521
+2026-06-16 15:13:34,482 [INFO] aiogram.event: Update id=988633696 is handled. Duration 187 ms by bot id=8991480521
+2026-06-16 15:13:36,482 [INFO] aiogram.event: Update id=988633697 is handled. Duration 185 ms by bot id=8991480521
+2026-06-16 15:13:38,491 [INFO] aiogram.event: Update id=988633698 is handled. Duration 184 ms by bot id=8991480521
+2026-06-16 15:13:42,970 [INFO] aiogram.event: Update id=988633699 is handled. Duration 470 ms by bot id=8991480521
+2026-06-16 15:13:52,259 [INFO] aiogram.event: Update id=988633700 is handled. Duration 242 ms by bot id=8991480521
+2026-06-16 15:13:54,535 [INFO] aiogram.event: Update id=988633701 is handled. Duration 215 ms by bot id=8991480521
+2026-06-16 15:14:00,982 [INFO] aiogram.event: Update id=988633702 is handled. Duration 197 ms by bot id=8991480521
+2026-06-16 15:14:03,404 [INFO] aiogram.event: Update id=988633703 is handled. Duration 168 ms by bot id=8991480521
+2026-06-16 15:14:05,038 [INFO] aiogram.event: Update id=988633704 is handled. Duration 187 ms by bot id=8991480521
+2026-06-16 15:14:13,919 [INFO] aiogram.event: Update id=988633705 is handled. Duration 199 ms by bot id=8991480521
+2026-06-16 15:14:17,105 [INFO] aiogram.event: Update id=988633706 is handled. Duration 188 ms by bot id=8991480521
+2026-06-16 15:14:21,392 [INFO] aiogram.event: Update id=988633707 is handled. Duration 191 ms by bot id=8991480521
+2026-06-16 15:14:23,784 [INFO] aiogram.event: Update id=988633708 is handled. Duration 430 ms by bot id=8991480521
+2026-06-16 15:14:29,210 [INFO] aiogram.event: Update id=988633709 is handled. Duration 168 ms by bot id=8991480521
+2026-06-16 15:16:03,877 [INFO] aiogram.event: Update id=988633710 is handled. Duration 520 ms by bot id=8991480521
+2026-06-16 15:16:14,920 [INFO] aiogram.event: Update id=988633711 is handled. Duration 188 ms by bot id=8991480521
+2026-06-16 15:16:18,795 [INFO] aiogram.event: Update id=988633712 is handled. Duration 152 ms by bot id=8991480521
+2026-06-16 15:16:22,578 [INFO] aiogram.event: Update id=988633713 is handled. Duration 227 ms by bot id=8991480521
+2026-06-16 15:16:26,866 [INFO] aiogram.event: Update id=988633714 is handled. Duration 176 ms by bot id=8991480521
+2026-06-16 15:16:33,697 [INFO] aiogram.event: Update id=988633715 is handled. Duration 268 ms by bot id=8991480521
+2026-06-16 15:16:42,753 [INFO] aiogram.event: Update id=988633716 is handled. Duration 179 ms by bot id=8991480521
+2026-06-16 15:16:48,886 [INFO] aiogram.event: Update id=988633717 is handled. Duration 186 ms by bot id=8991480521
+2026-06-16 15:16:57,277 [INFO] aiogram.event: Update id=988633718 is handled. Duration 174 ms by bot id=8991480521
+2026-06-16 15:17:00,425 [INFO] aiogram.event: Update id=988633719 is handled. Duration 412 ms by bot id=8991480521
+2026-06-16 15:17:04,677 [INFO] aiogram.event: Update id=988633720 is handled. Duration 189 ms by bot id=8991480521
+2026-06-16 15:18:43,508 [INFO] aiogram.event: Update id=988633726 is handled. Duration 472 ms by bot id=8991480521
+2026-06-16 15:18:43,542 [INFO] aiogram.event: Update id=988633727 is handled. Duration 507 ms by bot id=8991480521
+2026-06-16 15:18:43,563 [INFO] aiogram.event: Update id=988633728 is handled. Duration 527 ms by bot id=8991480521
+2026-06-16 15:18:43,578 [INFO] aiogram.event: Update id=988633721 is handled. Duration 548 ms by bot id=8991480521
+2026-06-16 15:18:43,597 [INFO] aiogram.event: Update id=988633725 is handled. Duration 562 ms by bot id=8991480521
+2026-06-16 15:18:43,627 [INFO] aiogram.event: Update id=988633730 is handled. Duration 574 ms by bot id=8991480521
+2026-06-16 15:18:43,656 [INFO] aiogram.event: Update id=988633724 is handled. Duration 621 ms by bot id=8991480521
+2026-06-16 15:18:43,672 [INFO] aiogram.event: Update id=988633723 is handled. Duration 638 ms by bot id=8991480521
+2026-06-16 15:18:43,703 [INFO] aiogram.event: Update id=988633722 is handled. Duration 670 ms by bot id=8991480521
+2026-06-16 15:18:43,729 [INFO] aiogram.event: Update id=988633729 is handled. Duration 693 ms by bot id=8991480521
+2026-06-16 15:20:04,071 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-06-16 15:20:04,097 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8991480521)
+2026-06-16 15:20:05,188 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-06-16 15:20:05,188 [WARNING] aiogram.dispatcher: Sleep for 1.339714 seconds and try again... (tryings = 1, bot id = 8991480521)
+2026-06-16 15:20:06,533 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-06-16 15:20:06,534 [WARNING] aiogram.dispatcher: Sleep for 1.793293 seconds and try again... (tryings = 2, bot id = 8991480521)
+2026-06-16 15:20:09,020 [INFO] aiogram.dispatcher: Connection established (tryings = 3, bot id = 8991480521)
+2026-06-16 15:20:09,543 [INFO] aiogram.event: Update id=988633732 is handled. Duration 512 ms by bot id=8991480521
+2026-06-16 15:20:09,579 [INFO] aiogram.event: Update id=988633737 is handled. Duration 545 ms by bot id=8991480521
+2026-06-16 15:20:09,610 [INFO] aiogram.event: Update id=988633739 is handled. Duration 576 ms by bot id=8991480521
+2026-06-16 15:20:09,630 [INFO] aiogram.event: Update id=988633734 is handled. Duration 596 ms by bot id=8991480521
+2026-06-16 15:20:09,646 [INFO] aiogram.event: Update id=988633735 is handled. Duration 613 ms by bot id=8991480521
+2026-06-16 15:20:09,673 [INFO] aiogram.event: Update id=988633733 is handled. Duration 641 ms by bot id=8991480521
+2026-06-16 15:20:09,694 [INFO] aiogram.event: Update id=988633736 is handled. Duration 660 ms by bot id=8991480521
+2026-06-16 15:20:09,736 [INFO] aiogram.event: Update id=988633731 is handled. Duration 713 ms by bot id=8991480521
+2026-06-16 15:20:09,749 [INFO] aiogram.event: Update id=988633738 is handled. Duration 714 ms by bot id=8991480521
+2026-06-16 15:20:09,881 [INFO] aiogram.event: Update id=988633740 is handled. Duration 846 ms by bot id=8991480521
+2026-06-16 15:20:17,427 [INFO] aiogram.event: Update id=988633741 is handled. Duration 186 ms by bot id=8991480521
+2026-06-16 15:20:18,550 [INFO] aiogram.event: Update id=988633742 is handled. Duration 196 ms by bot id=8991480521
+2026-06-16 15:20:18,999 [INFO] aiogram.event: Update id=988633743 is handled. Duration 192 ms by bot id=8991480521
+2026-06-16 15:20:22,273 [INFO] aiogram.event: Update id=988633744 is handled. Duration 382 ms by bot id=8991480521
+2026-06-16 15:20:25,613 [INFO] aiogram.event: Update id=988633745 is handled. Duration 292 ms by bot id=8991480521
+2026-06-16 15:20:27,711 [INFO] aiogram.event: Update id=988633746 is handled. Duration 340 ms by bot id=8991480521
+2026-06-16 15:20:27,906 [INFO] aiogram.event: Update id=988633747 is handled. Duration 189 ms by bot id=8991480521
+2026-06-16 15:20:32,119 [INFO] aiogram.event: Update id=988633748 is handled. Duration 187 ms by bot id=8991480521
+2026-06-16 15:20:53,352 [INFO] aiogram.event: Update id=988633749 is handled. Duration 679 ms by bot id=8991480521
+2026-06-16 15:20:57,270 [INFO] aiogram.event: Update id=988633750 is handled. Duration 181 ms by bot id=8991480521
+2026-06-16 15:21:04,245 [INFO] aiogram.event: Update id=988633751 is handled. Duration 166 ms by bot id=8991480521
+2026-06-16 15:21:14,651 [INFO] aiogram.event: Update id=988633752 is handled. Duration 152 ms by bot id=8991480521
+2026-06-16 15:21:17,266 [INFO] aiogram.event: Update id=988633753 is handled. Duration 358 ms by bot id=8991480521
+2026-06-16 15:21:28,395 [INFO] aiogram.event: Update id=988633754 is handled. Duration 168 ms by bot id=8991480521
+2026-06-16 15:21:32,404 [INFO] aiogram.event: Update id=988633755 is handled. Duration 175 ms by bot id=8991480521
+2026-06-16 15:21:37,836 [INFO] aiogram.event: Update id=988633756 is handled. Duration 167 ms by bot id=8991480521
+2026-06-16 15:21:46,228 [INFO] aiogram.event: Update id=988633757 is handled. Duration 180 ms by bot id=8991480521
+2026-06-16 15:21:47,118 [INFO] aiogram.event: Update id=988633758 is handled. Duration 154 ms by bot id=8991480521
+2026-06-16 15:21:50,312 [INFO] aiogram.event: Update id=988633759 is handled. Duration 154 ms by bot id=8991480521
+2026-06-16 15:21:52,915 [INFO] aiogram.event: Update id=988633760 is handled. Duration 160 ms by bot id=8991480521
+2026-06-16 15:21:53,702 [INFO] aiogram.event: Update id=988633761 is not handled. Duration 3 ms by bot id=8991480521
+2026-06-16 15:21:56,075 [INFO] aiogram.event: Update id=988633762 is handled. Duration 155 ms by bot id=8991480521
+2026-06-16 15:21:58,778 [INFO] aiogram.event: Update id=988633763 is handled. Duration 179 ms by bot id=8991480521
+2026-06-16 15:22:06,876 [INFO] aiogram.event: Update id=988633764 is handled. Duration 166 ms by bot id=8991480521
+2026-06-16 15:22:09,908 [INFO] aiogram.event: Update id=988633765 is handled. Duration 153 ms by bot id=8991480521
+2026-06-16 15:22:12,795 [INFO] aiogram.event: Update id=988633766 is handled. Duration 161 ms by bot id=8991480521
+2026-06-16 15:22:14,383 [INFO] aiogram.event: Update id=988633767 is handled. Duration 507 ms by bot id=8991480521
+2026-06-16 15:22:15,448 [INFO] aiogram.event: Update id=988633768 is handled. Duration 296 ms by bot id=8991480521
+2026-06-16 15:22:16,153 [INFO] aiogram.event: Update id=988633769 is handled. Duration 158 ms by bot id=8991480521
+2026-06-16 15:22:18,598 [INFO] aiogram.event: Update id=988633770 is handled. Duration 172 ms by bot id=8991480521
+2026-06-16 15:22:35,825 [INFO] aiogram.event: Update id=988633771 is handled. Duration 716 ms by bot id=8991480521
+2026-06-16 15:22:39,564 [INFO] aiogram.event: Update id=988633772 is handled. Duration 204 ms by bot id=8991480521
+2026-06-16 15:22:42,311 [INFO] aiogram.event: Update id=988633773 is handled. Duration 181 ms by bot id=8991480521
+2026-06-16 15:22:49,322 [INFO] aiogram.event: Update id=988633774 is handled. Duration 1318 ms by bot id=8991480521
+2026-06-16 15:22:50,828 [INFO] aiogram.event: Update id=988633775 is handled. Duration 171 ms by bot id=8991480521
+2026-06-16 15:22:58,670 [INFO] aiogram.event: Update id=988633776 is handled. Duration 343 ms by bot id=8991480521
+2026-06-16 15:23:13,250 [INFO] aiogram.event: Update id=988633777 is handled. Duration 189 ms by bot id=8991480521
+2026-06-16 15:23:15,158 [INFO] aiogram.event: Update id=988633778 is handled. Duration 1950 ms by bot id=8991480521
+2026-06-16 15:23:17,490 [INFO] aiogram.event: Update id=988633779 is handled. Duration 202 ms by bot id=8991480521
+2026-06-16 15:23:17,869 [INFO] aiogram.event: Update id=988633780 is handled. Duration 221 ms by bot id=8991480521
+2026-06-16 15:23:19,266 [INFO] aiogram.event: Update id=988633781 is handled. Duration 160 ms by bot id=8991480521
+2026-06-16 15:23:20,944 [INFO] aiogram.event: Update id=988633782 is handled. Duration 200 ms by bot id=8991480521
+2026-06-16 15:23:21,967 [INFO] aiogram.event: Update id=988633783 is not handled. Duration 11 ms by bot id=8991480521
+2026-06-16 15:23:21,968 [ERROR] aiogram.event: Cause exception while process update id=988633783 by bot id=8991480521
+AttributeError: 'sqlite3.Row' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 88, in jadval_davr
+    filtrlangan = [
+                  ^
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 90, in <listcomp>
+    if e.get("sana") and oy_boshi.isoformat() <= e["sana"] <= oy_oxiri.isoformat()
+       ^^^^^
+AttributeError: 'sqlite3.Row' object has no attribute 'get'
+2026-06-16 15:23:25,131 [INFO] aiogram.event: Update id=988633784 is handled. Duration 200 ms by bot id=8991480521
+2026-06-16 15:23:28,499 [INFO] aiogram.event: Update id=988633785 is handled. Duration 237 ms by bot id=8991480521
+2026-06-16 15:23:31,440 [INFO] aiogram.event: Update id=988633786 is not handled. Duration 9 ms by bot id=8991480521
+2026-06-16 15:23:31,440 [ERROR] aiogram.event: Cause exception while process update id=988633786 by bot id=8991480521
+AttributeError: 'sqlite3.Row' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 88, in jadval_davr
+    filtrlangan = [
+                  ^
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 90, in <listcomp>
+    if e.get("sana") and oy_boshi.isoformat() <= e["sana"] <= oy_oxiri.isoformat()
+       ^^^^^
+AttributeError: 'sqlite3.Row' object has no attribute 'get'
+2026-06-16 15:23:36,904 [INFO] aiogram.event: Update id=988633787 is handled. Duration 192 ms by bot id=8991480521
+2026-06-16 15:23:40,202 [INFO] aiogram.event: Update id=988633788 is handled. Duration 409 ms by bot id=8991480521
+2026-06-16 15:23:41,861 [INFO] aiogram.event: Update id=988633789 is not handled. Duration 8 ms by bot id=8991480521
+2026-06-16 15:23:41,861 [ERROR] aiogram.event: Cause exception while process update id=988633789 by bot id=8991480521
+AttributeError: 'sqlite3.Row' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 88, in jadval_davr
+    filtrlangan = [
+                  ^
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 90, in <listcomp>
+    if e.get("sana") and oy_boshi.isoformat() <= e["sana"] <= oy_oxiri.isoformat()
+       ^^^^^
+AttributeError: 'sqlite3.Row' object has no attribute 'get'
+2026-06-16 15:23:42,178 [INFO] aiogram.event: Update id=988633790 is handled. Duration 179 ms by bot id=8991480521
+2026-06-16 15:23:44,538 [INFO] aiogram.event: Update id=988633791 is not handled. Duration 166 ms by bot id=8991480521
+2026-06-16 15:23:44,538 [ERROR] aiogram.event: Cause exception while process update id=988633791 by bot id=8991480521
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 33, in jadval_menu
+    await _jadval_korsatish(callback, mashinalar[0]["id"])
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 66, in _jadval_korsatish
+    await callback.message.edit_text(
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/client/bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-06-16 15:23:50,190 [INFO] aiogram.event: Update id=988633792 is handled. Duration 228 ms by bot id=8991480521
+2026-06-16 15:23:53,287 [INFO] aiogram.event: Update id=988633793 is handled. Duration 383 ms by bot id=8991480521
+2026-06-16 15:23:54,908 [INFO] aiogram.event: Update id=988633794 is handled. Duration 175 ms by bot id=8991480521
+2026-06-16 15:23:56,460 [INFO] aiogram.event: Update id=988633795 is handled. Duration 197 ms by bot id=8991480521
+2026-06-16 15:23:57,209 [INFO] aiogram.event: Update id=988633796 is handled. Duration 203 ms by bot id=8991480521
+2026-06-16 15:23:59,250 [INFO] aiogram.event: Update id=988633797 is handled. Duration 495 ms by bot id=8991480521
+2026-06-16 15:24:00,747 [INFO] aiogram.event: Update id=988633798 is handled. Duration 165 ms by bot id=8991480521
+2026-06-16 15:24:06,769 [INFO] aiogram.event: Update id=988633799 is handled. Duration 173 ms by bot id=8991480521
+2026-06-16 15:24:09,185 [INFO] aiogram.event: Update id=988633800 is handled. Duration 208 ms by bot id=8991480521
+2026-06-16 15:24:14,917 [INFO] aiogram.event: Update id=988633801 is handled. Duration 212 ms by bot id=8991480521
+2026-06-16 15:25:15,505 [INFO] aiogram.event: Update id=988633802 is handled. Duration 617 ms by bot id=8991480521
+2026-06-16 15:25:22,784 [INFO] aiogram.event: Update id=988633803 is handled. Duration 348 ms by bot id=8991480521
+2026-06-16 15:25:24,717 [INFO] aiogram.event: Update id=988633804 is handled. Duration 167 ms by bot id=8991480521
+2026-06-16 15:25:29,252 [INFO] aiogram.event: Update id=988633805 is handled. Duration 220 ms by bot id=8991480521
+2026-06-16 15:25:37,062 [INFO] aiogram.event: Update id=988633806 is not handled. Duration 8 ms by bot id=8991480521
+2026-06-16 15:25:37,063 [ERROR] aiogram.event: Cause exception while process update id=988633806 by bot id=8991480521
+AttributeError: 'sqlite3.Row' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 104, in jadval_davr
+    filtrlangan = [
+                  ^
+  File "/Users/macbook_uz/Qiziltepa_Hokimiyat/autobot/handlers/jadval.py", line 106, in <listcomp>
+    if e.get("sana") and keyingi_boshi.isoformat() <= e["sana"] <= keyingi_oxiri.isoformat()
+       ^^^^^
+AttributeError: 'sqlite3.Row' object has no attribute 'get'
+2026-06-16 15:25:46,953 [INFO] aiogram.event: Update id=988633807 is handled. Duration 427 ms by bot id=8991480521
+2026-06-16 15:26:22,546 [INFO] aiogram.event: Update id=988633808 is handled. Duration 661 ms by bot id=8991480521
+2026-06-16 15:26:24,977 [INFO] aiogram.event: Update id=988633809 is handled. Duration 167 ms by bot id=8991480521
+2026-06-16 15:26:30,058 [INFO] aiogram.event: Update id=988633810 is handled. Duration 167 ms by bot id=8991480521
+2026-06-16 15:26:33,794 [INFO] aiogram.event: Update id=988633811 is handled. Duration 197 ms by bot id=8991480521
+2026-06-16 15:26:36,842 [INFO] aiogram.event: Update id=988633812 is not handled. Duration 4 ms by bot id=8991480521
+2026-06-16 15:26:44,242 [INFO] aiogram.event: Update id=988633813 is handled. Duration 184 ms by bot id=8991480521
+2026-06-16 15:26:46,204 [INFO] aiogram.event: Update id=988633814 is handled. Duration 166 ms by bot id=8991480521
+2026-06-16 15:26:48,252 [INFO] aiogram.event: Update id=988633815 is handled. Duration 146 ms by bot id=8991480521
+2026-06-16 15:26:55,057 [INFO] aiogram.event: Update id=988633816 is not handled. Duration 4 ms by bot id=8991480521
+2026-06-16 15:50:43,399 [INFO] database: ✅ DB tayyor
+2026-06-16 15:50:43,399 [INFO] __main__: ✅ Ma'lumotlar bazasi tayyor
+2026-06-16 15:50:43,442 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-06-16 15:50:43,442 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-06-16 15:50:43,442 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-06-16 15:50:43,442 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-06-16 15:50:43,443 [INFO] apscheduler.scheduler: Added job "kunlik_eslatmalar_yuborish" to job store "default"
+2026-06-16 15:50:43,444 [INFO] apscheduler.scheduler: Added job "yaqinlashgan_eslatmalar" to job store "default"
+2026-06-16 15:50:43,444 [INFO] apscheduler.scheduler: Added job "mavsumiy_eslatma" to job store "default"
+2026-06-16 15:50:43,444 [INFO] apscheduler.scheduler: Added job "mavsumiy_eslatma" to job store "default"
+2026-06-16 15:50:43,444 [INFO] apscheduler.scheduler: Scheduler started
+2026-06-16 15:50:43,444 [INFO] scheduler: ✅ Scheduler ishga tushdi
+2026-06-16 15:50:43,444 [INFO] __main__: ✅ Scheduler ishga tushdi
+2026-06-16 15:50:43,444 [INFO] __main__: 🚗 AvtoServis Bot ishga tushdi!
+2026-06-16 15:50:43,444 [INFO] aiogram.dispatcher: Start polling
+2026-06-16 15:50:43,943 [INFO] aiogram.dispatcher: Run polling for bot @avtoservis_uz_bot id=8991480521 - 'AvtoServis Bot'

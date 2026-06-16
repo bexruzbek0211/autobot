@@ -1,0 +1,163 @@
+# ============================================================
+# data/nexia.py — Nexia texnik ma'lumotlar bazasi
+# ============================================================
+
+NEXIA_DATA = {
+    "rusum": "Nexia",
+    "yillar": "1995-2016",
+    "dvigateller": ["1.5", "1.6"],
+    "moy_intervallari": {
+        "mineral":       5000,
+        "yarim_sintetik": 7000,
+        "sintetik":      10000,
+    },
+    "texnik_jadval": {
+        # nomi: {interval_km, tur, narx_min, narx_max, izoh}
+        "Moy + yog filtri": {
+            "interval_km": None,  # moy_turi ga qarab belgilanadi
+            "tur": "moy",
+            "narx_min": 90000,
+            "narx_max": 150000,
+            "izoh": "Mineral 5000, Yarim sint. 7000, Sint. 10000 km",
+        },
+        "Havo filtri": {
+            "interval_km": 15000,
+            "tur": "filtr",
+            "narx_min": 25000,
+            "narx_max": 45000,
+            "izoh": "Chang ko'p bo'lsa 10000 km da almashtiring",
+        },
+        "Yoqilgi filtri": {
+            "interval_km": 20000,
+            "tur": "filtr",
+            "narx_min": 15000,
+            "narx_max": 35000,
+            "izoh": "Benzin sifatiga qarab tez chiqishi mumkin",
+        },
+        "Salon filtri": {
+            "interval_km": 15000,
+            "tur": "filtr",
+            "narx_min": 20000,
+            "narx_max": 40000,
+            "izoh": "Ixtiyoriy, lekin tavsiya etiladi",
+        },
+        "Old tormoz kolodkalari": {
+            "interval_km": 30000,
+            "tur": "tormoz",
+            "narx_min": 150000,
+            "narx_max": 250000,
+            "izoh": "Shahar haydashda 25000 km da tekshiring",
+        },
+        "Orqa tormoz kolodkalari": {
+            "interval_km": 50000,
+            "tur": "tormoz",
+            "narx_min": 80000,
+            "narx_max": 130000,
+            "izoh": "Baraban tizimi, uzoqroq chidaydi",
+        },
+        "Tormoz diski (old)": {
+            "interval_km": 60000,
+            "tur": "tormoz",
+            "narx_min": 200000,
+            "narx_max": 350000,
+            "izoh": "Kolodka bilan birga tekshiring",
+        },
+        "Korobka moyi": {
+            "interval_km": 40000,
+            "tur": "moy",
+            "narx_min": 80000,
+            "narx_max": 130000,
+            "izoh": "Mexanik korobka uchun",
+        },
+        "Gur moyi": {
+            "interval_km": 50000,
+            "tur": "moy",
+            "narx_min": 60000,
+            "narx_max": 100000,
+            "izoh": "Dif. va gur birlashgan tizim",
+        },
+        "Gaz qayishi": {
+            "interval_km": 60000,
+            "tur": "qayish",
+            "narx_min": 120000,
+            "narx_max": 200000,
+            "izoh": "MUHIM: Uzilsa dvigatel buziladi! Vaqtida almashtiring",
+        },
+        "Generator qayishi": {
+            "interval_km": 40000,
+            "tur": "qayish",
+            "narx_min": 30000,
+            "narx_max": 60000,
+            "izoh": "Tiqnashib qolishi mumkin, oldindan almashtiring",
+        },
+        "Antifriz": {
+            "interval_km": None,
+            "interval_yil": 2,
+            "tur": "suyuqlik",
+            "narx_min": 40000,
+            "narx_max": 80000,
+            "izoh": "2 yilda bir, qish oldidan tekshiring",
+        },
+        "Tormoz suyuqligi": {
+            "interval_km": None,
+            "interval_yil": 2,
+            "tur": "suyuqlik",
+            "narx_min": 30000,
+            "narx_max": 60000,
+            "izoh": "DOT-4, 2 yilda bir",
+        },
+        "Buji (sham)": {
+            "interval_km": 20000,
+            "tur": "elektr",
+            "narx_min": 40000,
+            "narx_max": 80000,
+            "izoh": "4 dona, mis shamlar. Iridiy 40000 km ga chidaydi",
+        },
+        "Akkumulyator": {
+            "interval_km": None,
+            "interval_yil": 3,
+            "tur": "elektr",
+            "narx_min": 350000,
+            "narx_max": 600000,
+            "izoh": "3-4 yilda bir, qish oldidan tekshiring",
+        },
+        "Tеvarak barmoqlari": {
+            "interval_km": 80000,
+            "tur": "podveska",
+            "narx_min": 100000,
+            "narx_max": 180000,
+            "izoh": "Taqillab qolsa darhol almashtiring",
+        },
+        "Amortizatorlar (old)": {
+            "interval_km": 80000,
+            "tur": "podveska",
+            "narx_min": 250000,
+            "narx_max": 450000,
+            "izoh": "Juft almashtiring — ikkalasini birga",
+        },
+        "Shina aylantirishи": {
+            "interval_km": 10000,
+            "tur": "shina",
+            "narx_min": 20000,
+            "narx_max": 50000,
+            "izoh": "Old va orqani almashtiring — teng eyilish uchun",
+        },
+    },
+    "mavsumiy_tekshiruvlar": {
+        "yoz": [
+            "Antifriz darajasi va rangi",
+            "Konditsioner (mavjud bo'lsa) tekshiruvi",
+            "Salqinlatish ventilyatori ishlashi",
+            "Shina bosimi (issiqda oshadi)",
+            "Akkumulyator zaryad darajasi",
+        ],
+        "qish": [
+            "Antifriz -30 ga chidashini tekshiring",
+            "Akkumulyator kuchini tekshiring (sovuqda zaiflanadi)",
+            "Qish rezinasiga o'tish",
+            "Oyna suyuqligi (-20 ga chidaydimi?)",
+            "Tormoz tizimi tekshiruvi",
+            "Yoqilgi tizimi muzdamasligi",
+        ],
+    },
+}
