@@ -1,59 +1,39 @@
-import logging
-import os
-import asyncio
-import aiohttp
-from aiogram import Router, F
-from aiogram.types import Message
-import database as db
+   import requests
+   from telegram import Update
+   from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
-logger = logging.getLogger(__name__)
-router = Router()
+   OPENAI_API_KEY = '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'
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key={GEMINI_API_KEY}"
+   def get_ai_response(question):
+       headers = {
+           'Authorization': f'Bearer {OPENAI_API_KEY}',
+           'Content-Type': 'application/json',
+       }
+       data = {
+           'model': 'gpt-3.5-turbo',
+           'messages': [{'role': 'user', 'content': question}],
+       }
+       response = requests.post('https://api.openai.com/v1/chat/completions', headers=headers, json=data)
+       answer = response.json()['choices'][0]['message']['content']
+       return answer
 
-SYSTEM_PROMPT = """Sen avtomobil texnik xizmati bo'yicha mutaxassissan. O'zbekistondagi avtomobil egalari (Nexia, Matiz, Cobalt, Lacetti) uchun maslahat berasan. Qisqa, aniq va amaliy javob ber. O'zbek tilida javob ber."""
+   def start(update: Update, context: CallbackContext) -> None:
+       update.message.reply_text('Salom! Savolingizni bering.')
 
-async def gemini_javob(savol: str, mashina_info: str = "") -> str:
-    for urinish in range(3):
-        try:
-            if mashina_info:
-                matn = f"Foydalanuvchining mashinasi: {mashina_info}\n\nSavol: {savol}"
-            else:
-                matn = savol
+   def answer(update: Update, context: CallbackContext) -> None:
+       user_question = update.message.text
+       ai_response = get_ai_response(user_question)
+       update.message.reply_text(ai_response)
 
-            payload = {
-                "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
-                "contents": [{"parts": [{"text": matn}]}],
-                "generationConfig": {"maxOutputTokens": 500, "temperature": 0.7}
-            }
+   def main() -> None:
+       updater = Updater("YOUR_TELEGRAM_BOT_TOKEN")
 
-            async with aiohttp.ClientSession() as session:
-                async with session.post(GEMINI_URL, json=payload) as resp:
-                    if resp.status == 429:
-                        await asyncio.sleep(15 * (urinish + 1))
-                        continue
-                    data = await resp.json()
-                    javob = data["candidates"][0]["content"]["parts"][0]["text"]
-                    return javob.strip()
-        except Exception as e:
-            logger.error(f"Gemini xatosi: {e}")
-            await asyncio.sleep(3)
-    return "Hozircha band, 1 daqiqadan keyin urinib ko'ring."
+       updater.dispatcher.add_handler(CommandHandler("start", start))
+       updater.dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, answer))
 
-@router.message(F.text & ~F.text.startswith("/"))
-async def ai_savol(message: Message):
-    telegram_id = message.from_user.id
-    foydalanuvchi = await db.foydalanuvchi_olish(telegram_id)
-    if not foydalanuvchi:
-        return
+       updater.start_polling()
+       updater.idle()
 
-    mashina_info = ""
-    mashinalar = await db.foydalanuvchi_mashinalar(foydalanuvchi["id"])
-    if mashinalar:
-        m = mashinalar[0]
-        mashina_info = f"{m['rusum']} {m['yil']} ({m['dvigatel']}L), {m['joriy_km']} km"
-
-    await message.answer("🤔 Javob tayyorlanmoqda...")
-    javob = await gemini_javob(message.text, mashina_info)
-    await message.answer(f"🤖 {javob}")
+   if __name__ == '__main__':
+       main()
+   
