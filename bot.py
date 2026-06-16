@@ -13,7 +13,7 @@ from database import init_db
 from scheduler import scheduler_ishga_tushir
 
 # Handlerlar
-from handlers import start, menu, jadval, eslatma, belgi, xarajat, tarix, admin
+from handlers import start, menu, jadval, eslatma, belgi, xarajat, tarix, admin, ai_chat
 
 # Logging sozlash
 logging.basicConfig(
@@ -44,6 +44,7 @@ async def main():
     dp.include_router(xarajat.router)
     dp.include_router(tarix.router)
     dp.include_router(admin.router)
+    dp.include_router(ai_chat.router)
 
     # DB ishga tushirish
     await init_db()
